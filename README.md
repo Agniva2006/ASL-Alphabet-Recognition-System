@@ -1,8 +1,3 @@
-ere you go 👍
-Below is the **complete `.md` file content**, already structured and formatted exactly as a **proper `README_ML.md`**.
-You can **copy-paste this directly into `README_ML.md`** and commit/share it with your web-dev friend.
-
----
 
 ```md
 # ASL Alphabet Detection – ML Module
